@@ -8,4 +8,5 @@
 .menu {
 	margin-left:15px;
 	background-color: tomato;
+	border: 2px solid black;
 }
